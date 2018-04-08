@@ -99,7 +99,7 @@ caffe 프레임워크의 caffemodel 을 pretrained model(.npy)과 구성 model(.
 해당 내용은 Classification폴더의 ipython notebook을 참고하자.
 
 ## Reference
-[1] [imgaug - image Augmentation](https://github.com/aleju/imgaug)
-[2] [Tensorflow Document - Reading Data](https://www.tensorflow.org/api_guides/python/reading_data)
-[3] [Caffe to Tensorflow - PreTrained Model](https://github.com/ethereon/caffe-tensorflow)
-[4] [Deep Learning Model Convertor](https://github.com/ysh329/deep-learning-model-convertor)
+[1] [imgaug - image Augmentation](https://github.com/aleju/imgaug) <br />
+[2] [Tensorflow Document - Reading Data](https://www.tensorflow.org/api_guides/python/reading_data) <br />
+[3] [Caffe to Tensorflow - PreTrained Model](https://github.com/ethereon/caffe-tensorflow) <br />
+[4] [Deep Learning Model Convertor](https://github.com/ysh329/deep-learning-model-convertor) <br />
