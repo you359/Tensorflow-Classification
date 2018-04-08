@@ -1,0 +1,12 @@
+# OS X temporary metadata
+._*
+*.DS_Store
+
+# Extracted parameters
+*.params
+
+# Python cache
+*.pyc
+
+.idea
+.ipynb_checkpoints
